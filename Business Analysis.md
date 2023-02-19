@@ -1,5 +1,6 @@
 # 1. Introduction
 ## 1-1. Business purpose
+Business Purpose: Amtrak is pursuing the implementation of a new seating system to improve the overall experience for their commuters. The proposed system aims to address the current inefficiencies and inconvenience caused by the manual seat assignment process. By enabling passengers to select their seats via the website, the new system is expected to reduce the time and effort required by employees to manually assign seats, as well as reduce confusion and potential conflicts among passengers. Ultimately, the new seating system is expected to improve customer satisfaction and contribute to Amtrak's overall objective of providing safe, efficient, and reliable transportation services.
 ## 1-2. Business scope
 ## 1-3. Overview
 ## 1-4. Definitions
