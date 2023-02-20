@@ -297,6 +297,7 @@ When the system is no longer needed, Amtrak will need to retire it in a responsi
 * Regulatory requirements: The project will need to comply with all relevant regulations and laws, including data privacy laws and regulations related to the transportation industry.
 
 # 8. Appendix
+## 8.1 Acronyms and abbreviations
 CSQS: Customer Service Quality Supervisor.
 
 EIC: Employee in Charge
@@ -313,6 +314,5 @@ TA: Train Attendant - assists passengers in either Coach or Sleeping Cars
 
 TSA: Transportation Security Administration - is a component of the Department of Homeland Security and is responsible for security of the nation’s transportation systems
 
-## 8.1 Acronyms and abbreviations
 
  
