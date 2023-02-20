@@ -142,42 +142,41 @@ Ticket Handling
 * If the customer was removed from the train en route involuntarily, their ticket is NOT to be returned 
 to them.
 * Notify CNOC 24-Hour Operations Customer Services Desk immediately at (302) 683-2299.
-• Provide the customer’s name, original destination, and a brief description of the situation 
+* Provide the customer’s name, original destination, and a brief description of the situation 
 including whether or not the local police were involved.
-• Specify the names of any accompanying companion(s), the original destination, and the station or 
+* Specify the names of any accompanying companion(s), the original destination, and the station or 
 location where the customer left the train.
-• Note the delay (if any) on the delay report.
-• Follow up with a report to the Road Trainmaster, Road Foreman, Crew Base Manager or 
+* Follow up with a report to the Road Trainmaster, Road Foreman, Crew Base Manager or 
 Onboard Service Manager.
-• Advise the customer that any refund or fare adjustment is determined by the Amtrak Customer 
+* Advise the customer that any refund or fare adjustment is determined by the Amtrak Customer 
 Refunds department on a case-by-case basis based upon the fare plan and any restrictions of 
 that plan.
-• The Conductor must change the customer’s destination to the location the customer was 
+* The Conductor must change the customer’s destination to the location the customer was 
 removed in the Ticket Details screen of the eMD.
-• If the customer voluntarily leaves the train or indicates a desire to leave the train before their ticketed 
+* If the customer voluntarily leaves the train or indicates a desire to leave the train before their ticketed 
 destination, lift the ticket and do not return the ticket if it is a paper value ticket.
-• Notify CNOC 24-Hour Operations Customer Services Desk at (302) 683-2299 to provide the 
+* Notify CNOC 24-Hour Operations Customer Services Desk at (302) 683-2299 to provide the 
 customer’s name, details of the situation, the original destination, and the station or location 
 where the customer left the train.
-• Advise the customer that any refund or fare adjustment is determined by the Amtrak Customer 
+* Advise the customer that any refund or fare adjustment is determined by the Amtrak Customer 
 Refunds department on a case-by-case basis based upon the fare plan and any restrictions of 
 that plan.
-• The Conductor must change the customer’s destination to the location the customer voluntarily left 
+* The Conductor must change the customer’s destination to the location the customer voluntarily left 
 the train in the Ticket Details screen of the eMD.
-• If, at the time during the ticket lift, the customer indicates a desire to leave the train before their 
+* If, at the time during the ticket lift, the customer indicates a desire to leave the train before their 
 ticketed destination; lift the ticket.
-• Advise the customer that any refund or fare adjustment is determined by the Amtrak Customer 
+* Advise the customer that any refund or fare adjustment is determined by the Amtrak Customer 
 Refunds department on a case-by-case basis based upon the fare plan and any restrictions of 
 that plan.
-• The Conductor must change the customer’s destination to the location the customer voluntarily left 
+* The Conductor must change the customer’s destination to the location the customer voluntarily left 
 the train in the Ticket Details screen of the eMD
 
  Identification
 Refer to Chapter 8, “Accounting”, Section 1 “Train Service Accounting Procedures” for:
-• General Information 
-• Senior Citizens – Must present proof of age. 
-• Persons with Disabilities 
-• Military – ID card required
+* General Information 
+* Senior Citizens – Must present proof of age. 
+* Persons with Disabilities 
+* Military – ID card required
 
 Ticket Refund Policy 
 Refer to Chapter 8 “Accounting”, Section 1 “Train Service Accounting Procedures”
