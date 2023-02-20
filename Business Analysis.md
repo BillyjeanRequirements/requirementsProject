@@ -139,9 +139,9 @@ The proposed system will support the following business processes:
 The system will interface with various external systems, including payment gateways, train schedule databases, and customer relationship management systems. The interfaces will be designed to ensure smooth integration between the systems and provide accurate and timely information to customers.
 ## 4-2. Business operational policies and rules
 Ticket Handling
-• If the customer was removed from the train en route involuntarily, their ticket is NOT to be returned 
+* If the customer was removed from the train en route involuntarily, their ticket is NOT to be returned 
 to them.
-• Notify CNOC 24-Hour Operations Customer Services Desk immediately at (302) 683-2299.
+* Notify CNOC 24-Hour Operations Customer Services Desk immediately at (302) 683-2299.
 • Provide the customer’s name, original destination, and a brief description of the situation 
 including whether or not the local police were involved.
 • Specify the names of any accompanying companion(s), the original destination, and the station or 
