@@ -222,29 +222,75 @@ The level of quality required for the business operation is high. The seating re
 
 ## 5.1 Preliminary operational concept
 
-### a) operational policies and constraints;
 
-### b) description of the proposed system;
+### a) Operational policies and constraints: The proposed system must comply with Amtrak's policies and constraints, including customer data privacy, availability, and reliability. The system should also ensure that it is user-friendly, scalable, and flexible to accommodate future changes or updates.
 
-### c) modes of system operation;
+### b) Description of the proposed system: The proposed system is a seating reservation system that allows passengers to select and reserve seats for their trip via a website. The system will keep track of all customer trips, and based on that information, purchasing customers will be able to see what seats are available for their trip. The system will also allow customers to view and manage their reservations, as well as receive real-time updates about their trip.
 
-### d) user classes and other involved personnel; and
 
-### e) support environment.
+### c) Modes of system operation: The system will operate primarily in an online mode, allowing customers to access the system through a website. The system should be designed to handle a large volume of traffic during peak hours, and be able to provide real-time updates to customers. In case of any unexpected situation, such as an accident or natural disaster, the system should be able to switch to a manual operation mode, allowing Amtrak employees to assign seats to passengers manually.
+
+### d) User classes and other involved personnel: The system will be used by passengers, Amtrak customer service representatives, train attendants, and IT support staff. Passengers will be able to access the system through a website and will be able to view and manage their reservations. Customer service representatives and train attendants will be responsible for assisting passengers with any issues related to their reservations. IT support staff will be responsible for maintaining and updating the system.
+
+### e) Support environment: The system should be designed to support the needs of Amtrak's organizational structure, including divisions and departments such as Operations, Marketing, Finance, and Information Technology. Additionally, the system should be scalable and flexible to accommodate future changes or updates to the organization's resource sharing structures. The system should also comply with all relevant laws and regulations related to data protection, privacy, and consumer rights. Finally, the system should be designed to be user-friendly and provide a positive customer experience.
+
 
 ## 5.2 Preliminary operational scenarios
+
+1. Seat selection scenario:
+The user accesses the Amtrak website and enters their travel details, such as origin, destination, and travel date. The system then displays the available trains and the seat layout for each train. The user selects a train and a desired seat from the available options. The system then confirms the seat selection and generates a ticket.
+
+2. Train schedule scenario:
+The user accesses the Amtrak website and enters their travel details, such as origin, destination, and travel date. The system then displays the available trains and their schedules for the selected route. The user selects a train based on the schedule that best fits their travel needs. The system then generates a ticket with the selected train and schedule.
+
+3. Refund scenario:
+The user requests a refund for a previously booked ticket. The user accesses the Amtrak website and navigates to the refund page. The system prompts the user to enter the ticket details and reason for the refund request. The system then processes the refund and sends a confirmation to the user.
+
+4. Maintenance scenario:
+The maintenance personnel access the Amtrak system to perform maintenance tasks on a train. The system displays the train maintenance schedule and tasks that need to be performed. The personnel select a train and view the maintenance tasks that need to be performed. The system then generates a work order for the selected tasks and tracks their completion status.
+
 
 # 6. Other preliminary life-cycle concepts
 
 ## 6.1 Preliminary acquisition concept
+1. Stakeholder engagement: Amtrak will engage stakeholders, such as passengers and employees, to gather their requirements and feedback on the proposed system.
+
+2. Source of the solution: Amtrak will consider both in-house development and external vendor solutions for the system. The decision will be based on factors such as cost, time, and feasibility.
+
+3. Requirements definition: Amtrak will define the functional and non-functional requirements of the system through collaboration with stakeholders and subject matter experts. These requirements will form the basis for the system design.
+
+4. Solicitation and contracting issues: Amtrak will prepare a solicitation document to invite vendors to submit proposals for the system development. The contracting process will involve negotiation of terms and conditions, and adherence to relevant regulations and policies.
+
+5. Design, production, and verification: The system design will be based on the requirements definition and vendor proposals. The production phase will involve coding, testing, and deployment of the system. Verification will involve testing the system against the defined requirements and user feedback. Amtrak will ensure that the system meets relevant standards and regulations, such as ADA compliance.
 
 ## 6.2 Preliminary deployment concept
+Validation: Before deployment, the system will undergo a validation process to ensure that it meets the requirements and is free of defects. This will involve testing the system in a controlled environment with sample data and simulated scenarios.
+
+Delivery: The system will be delivered to Amtrak's infrastructure through a phased approach, based on geographic locations and customer feedback. The delivery will involve installation of the system on Amtrak's servers and integration with other relevant systems, such as the ticketing system.
+
+Introduction: The introduction of the system will involve a change management process to ensure a smooth transition for the passengers and employees. This will include communication of the new system to the passengers through various channels, such as email, social media, and signage at stations. The employees will be trained on how to operate the new system and address any customer concerns or issues.
+
+Operations: The system will be operated by Amtrak's employees, who will be responsible for monitoring the system, resolving any issues, and providing support to the passengers. Amtrak will continuously monitor the system's performance and collect feedback from passengers to improve the system's functionality and usability. The deployment will be considered successful if the system improves the passenger experience and enhances Amtrak's operational efficiency.
 
 ## 6.3 Preliminary support concept
+Operating Support: The system would require ongoing technical support and maintenance to ensure smooth operation. This would include monitoring the website for any technical issues or glitches, as well as providing customer service support for users who experience difficulties selecting their seats or accessing the website.
+
+Engineering Support: The system would require periodic updates and improvements to keep up with changing customer needs and technological advancements. This would involve an engineering team responsible for the ongoing development and maintenance of the system.
+
+Maintenance Support: The system would require regular maintenance to ensure its continued functionality. This would include both software and hardware maintenance, such as updating software, replacing faulty hardware, and performing regular system checks.
+
+Supply Support: The system would require a steady supply of resources, such as hardware and software updates, to ensure its continued operation. This would require a supply chain management team responsible for acquiring and managing the necessary resources.
+
+Training Support: The system would require ongoing training for both employees and customers to ensure effective use and operation. This would involve providing training to employees on how to use and maintain the system, as well as providing training to customers on how to select and reserve their seats through the website and app.
 
 ## 6.4 Preliminary retirement concept
+When the system is no longer needed, Amtrak will need to retire it in a responsible manner. This will involve disposing of any hardware and software in a way that minimizes the impact on the environment. Any hazardous materials used in the system will need to be disposed of in a way that is compliant with local regulations.
 
 # 7. Project Constraints
+* Budget: The project will need to be completed within the allocated budget set by Amtrak.
+* Schedule: The project will need to be completed within the specified timeframe. Any delays will impact the overall schedule and could result in additional costs.
+* Resources: Amtrak will need to ensure that there are sufficient resources, including personnel, hardware, and software, to support the project. Any resource constraints could impact the success of the project.
+* Regulatory requirements: The project will need to comply with all relevant regulations and laws, including data privacy laws and regulations related to the transportation industry.
 
 # 8. Appendix
 
