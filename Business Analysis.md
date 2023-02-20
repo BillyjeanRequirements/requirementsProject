@@ -14,23 +14,29 @@ The marketing division is responsible for promoting Amtrak's services and managi
 
 External entities that are important to Amtrak's business include passengers, suppliers, regulatory agencies, and local communities. Passengers are the primary customers of Amtrak and the reason for its existence. Suppliers provide Amtrak with goods and services, including equipment and materials for train operations. Regulatory agencies oversee Amtrak's compliance with safety and environmental regulations. Local communities provide support for Amtrak's operations and are impacted by its presence.
 ## 1-4. Definitions
-Seating system: The software and hardware that enables passengers to select their seats on Amtrak's passenger trains via the website.
+Amtrak RideReserveSM : A type of reservation that can be made by multi-ride customers on Amtrak.com and on 
+the Amtrak app. RideReserve reservations applies to all multi-ride ticket holder reservations (existing and new 
+bookings), for Amtrak travel.
+Seating system : The software and hardware that enables passengers to select their seats on Amtrak's passenger trains via the website.
 
-Ticketing system: The software and hardware that enables passengers to purchase tickets for Amtrak's passenger trains via the website, mobile app, or other channels.
+Ticketing system : The software and hardware that enables passengers to purchase tickets for Amtrak's passenger trains via the website, mobile app, or other channels.
 
-Train management system: The software and hardware that enables Amtrak employees to manage train operations, including scheduling, crew management, and maintenance.
+Train management system : The software and hardware that enables Amtrak employees to manage train operations, including scheduling, crew management, and maintenance.
 
-Customer experience: The sum of all interactions that a passenger has with Amtrak during their journey, including pre-trip planning, on-board experience, and post-trip follow-up.
+Customer experience : The sum of all interactions that a passenger has with Amtrak during their journey, including pre-trip planning, on-board experience, and post-trip follow-up.
 
-Passenger satisfaction: The degree to which passengers are pleased with their experience on Amtrak, based on factors such as comfort, safety, reliability, and customer service.
+Passenger satisfaction : The degree to which passengers are pleased with their experience on Amtrak, based on factors such as comfort, safety, reliability, and customer service.
 
-Business objectives: The specific goals that Amtrak aims to achieve through the implementation of the seating system, such as improving customer satisfaction, reducing workload for employees, and increasing revenue.
+Business objectives : The specific goals that Amtrak aims to achieve through the implementation of the seating system, such as improving customer satisfaction, reducing workload for employees, and increasing revenue.
 
 Business model: The overall strategy and structure of Amtrak's business, including its value proposition, target market, revenue streams, and cost structure.
 
 Information environment: The collection of hardware, software, data, and communication networks that support Amtrak's information systems and enable the flow of information across the organization.
 
 Stakeholders: Individuals or groups who have a vested interest in Amtrak's success, including passengers, employees, shareholders, suppliers, and local communities.
+
+eMD: (eTicketing Mobile Device) An electronic device (Smartphone) used for lifting tickets electronically and assist with 
+other train related tasks.
 ## 1-5. Major stakeholders
 Passengers: The primary users of Amtrak's passenger trains who purchase tickets and use the seating system to select their seats. Passengers have a significant influence on Amtrak's revenue and reputation based on their satisfaction with the service.
 
@@ -102,24 +108,29 @@ Finance and Revenue Model:
 The proposed seating system is expected to generate revenue for Amtrak through increased customer satisfaction and ticket sales. The system will be funded through Amtrak's existing budget and is expected to generate a positive return on investment through increased efficiency and reduced employee workload.
 
 ## 3-4. Information environment
-Overview of current information systems: Describe the current state of the organization's information systems and how they support the business activities. This should include an overview of the technology, applications, and databases used by the organization.
+The information environment includes the overall strategy for making organization-level decisions on common bases for multiple information systems. The following items should be considered:
 
-Information system architecture: Define the overall architecture of the information systems to be developed or changed. This should include the technical infrastructure, software applications, and data storage and retrieval systems.
+a) Project portfolio: The project portfolio management strategy should determine the priority, relative positioning, and possible constraints when multiple system projects are running or planned to pursue the same business goal.
 
-Information technology standards: Define the standards for information technology used by the organization, including hardware, software, and network protocols.
+b) Long-term system plan: The long-term system plan should describe the common system infrastructure or architecture that has been decided or planned and any constraints that should be considered during the design process.
 
-Information security: Describe the organization's information security policies, procedures, and practices. This should include measures for protecting the confidentiality, integrity, and availability of information, as well as measures for responding to security incidents.
-
-Data management: Describe the organization's approach to data management, including data quality, data integration, and data governance.
-
-Business intelligence: Describe the organization's approach to business intelligence, including data analytics and reporting.
-
-Information systems development methodology: Describe the methodology used for developing or changing information systems, including project management, software development, and quality assurance processes.
-
-Information systems governance: Describe the governance structure for information systems, including roles and responsibilities, decision-making processes, and performance measurement.
+c) Database configuration: An organization-level database configuration plan should be developed, and any possible constraints on the availability and accessibility of organization global data should be specified.
 
 # 4. Business operational requirements
 ## 4-1. Business processes
+The proposed system will support the following business processes:
+
+1. Seat Reservation Process: This process involves allowing passengers to reserve a seat for their trip via the website. The process will include selecting the desired train, entering the passenger information, selecting the preferred seat, and making the payment.
+
+2. Seat Availability Process: This process involves checking the availability of seats for a particular train on a particular date. This will be done by the system and will be displayed to the passenger during the Seat Reservation process.
+
+3. Train Schedule Process: This process involves managing the train schedule, including adding new trains, updating the schedule, and canceling trains.
+
+4. Payment Process: This process involves collecting payment from passengers for their seat reservations. The payment will be collected securely via the website.
+
+5. Customer Information Process: This process involves managing customer information, including storing customer details, booking history, and payment information.
+
+The system will interface with various external systems, including payment gateways, train schedule databases, and customer relationship management systems. The interfaces will be designed to ensure smooth integration between the systems and provide accurate and timely information to customers.
 ## 4-2. Business operational policies and rules
 ## 4-3. Business operational constraints
 ## 4-4. Business operational modes
