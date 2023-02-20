@@ -138,6 +138,50 @@ The proposed system will support the following business processes:
 
 The system will interface with various external systems, including payment gateways, train schedule databases, and customer relationship management systems. The interfaces will be designed to ensure smooth integration between the systems and provide accurate and timely information to customers.
 ## 4-2. Business operational policies and rules
+Ticket Handling
+• If the customer was removed from the train en route involuntarily, their ticket is NOT to be returned 
+to them.
+• Notify CNOC 24-Hour Operations Customer Services Desk immediately at (302) 683-2299.
+• Provide the customer’s name, original destination, and a brief description of the situation 
+including whether or not the local police were involved.
+• Specify the names of any accompanying companion(s), the original destination, and the station or 
+location where the customer left the train.
+• Note the delay (if any) on the delay report.
+• Follow up with a report to the Road Trainmaster, Road Foreman, Crew Base Manager or 
+Onboard Service Manager.
+• Advise the customer that any refund or fare adjustment is determined by the Amtrak Customer 
+Refunds department on a case-by-case basis based upon the fare plan and any restrictions of 
+that plan.
+• The Conductor must change the customer’s destination to the location the customer was 
+removed in the Ticket Details screen of the eMD.
+• If the customer voluntarily leaves the train or indicates a desire to leave the train before their ticketed 
+destination, lift the ticket and do not return the ticket if it is a paper value ticket.
+• Notify CNOC 24-Hour Operations Customer Services Desk at (302) 683-2299 to provide the 
+customer’s name, details of the situation, the original destination, and the station or location 
+where the customer left the train.
+• Advise the customer that any refund or fare adjustment is determined by the Amtrak Customer 
+Refunds department on a case-by-case basis based upon the fare plan and any restrictions of 
+that plan.
+• The Conductor must change the customer’s destination to the location the customer voluntarily left 
+the train in the Ticket Details screen of the eMD.
+• If, at the time during the ticket lift, the customer indicates a desire to leave the train before their 
+ticketed destination; lift the ticket.
+• Advise the customer that any refund or fare adjustment is determined by the Amtrak Customer 
+Refunds department on a case-by-case basis based upon the fare plan and any restrictions of 
+that plan.
+• The Conductor must change the customer’s destination to the location the customer voluntarily left 
+the train in the Ticket Details screen of the eMD
+
+ Identification
+Refer to Chapter 8, “Accounting”, Section 1 “Train Service Accounting Procedures” for:
+• General Information 
+• Senior Citizens – Must present proof of age. 
+• Persons with Disabilities 
+• Military – ID card required
+
+Ticket Refund Policy 
+Refer to Chapter 8 “Accounting”, Section 1 “Train Service Accounting Procedures”
+
 ## 4-3. Business operational constraints
 1. Performance constraint: The website should be able to handle a large volume of traffic during peak hours when customers are making reservations for their trips. The website should also be able to provide real-time updates on available seats to customers.
 
@@ -151,6 +195,17 @@ The system will interface with various external systems, including payment gatew
 
 6. Integration with existing systems: The new system should be integrated with Amtrak's existing reservation and ticketing systems to ensure that customer data is consistent across all systems. This will help to avoid confusion and ensure that customers receive accurate information about their reservations.
 ## 4-4. Business operational modes
+1. Business Continuity Plan: Amtrak should have a well-defined Business Continuity Plan (BCP) in place that outlines how to continue operations during unexpected situations like accidents, natural disasters, or any other major disruptive events. The plan should include a strategy for shifting to manual operations if the proposed system is not available due to any reason.
+
+2. Alternative Booking Options: In the event of the website being unavailable, Amtrak should have alternative booking options available to customers, such as a phone or in-person booking system. These alternative options should be adequately staffed, and employees should be trained on how to handle the increased volume of reservations.
+
+3. Flexibility in Operations: To manage the unsteady state of operations, Amtrak should have a flexible approach to their business operations. They should be prepared to adjust their staffing levels, shift work schedules, and modify their procedures to respond to any sudden surge in demand.
+
+4. Customer Communication: During any unsteady state of business operation, it is crucial to maintain clear communication with customers. Amtrak should have a system in place to provide real-time updates to customers regarding any changes in their travel plans or availability of seats.
+
+5. Back-up and Recovery Plans: To ensure that the proposed system can be restored as quickly as possible after an unexpected disruption, Amtrak should have a robust back-up and recovery plan in place. This includes having a redundant system, regular data backups, and a tested recovery plan that can be executed quickly if needed.
+
+6. Disaster Recovery Plan: Amtrak should have a disaster recovery plan in place that outlines how to resume operations after a significant disruptive event, such as a natural disaster. This plan should include strategies for ensuring employee safety, restoring essential systems and operations, and communicating with customers and stakeholders.
 ## 4-5. Business operational quality
 The level of quality required for the business operation is high. The seating reservation system must be reliable, secure, and user-friendly. It should be able to handle a large volume of traffic during peak hours, provide real-time updates, and ensure that customer information is kept secure and private. Additionally, the system should comply with all relevant laws and regulations related to data protection, privacy, and consumer rights. Finally, the system should be designed to be flexible and scalable to accommodate future changes or updates.
 
