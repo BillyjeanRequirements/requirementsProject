@@ -132,7 +132,7 @@ The proposed system will support the following business processes:
 
 3. Train Schedule Process: This process involves managing the train schedule, including adding new trains, updating the schedule, and canceling trains.
 
-4. Payment Process: This process involves collecting payment from passengers for their seat reservations. The payment will be collected securely via the website.
+4. Payment Process: This process involves collecting payment from passengers for their seat reservations. The payment will be collected securely via the website and app.
 
 5. Customer Information Process: This process involves managing customer information, including storing customer details, booking history, and payment information.
 
