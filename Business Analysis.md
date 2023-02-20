@@ -297,6 +297,21 @@ When the system is no longer needed, Amtrak will need to retire it in a responsi
 * Regulatory requirements: The project will need to comply with all relevant regulations and laws, including data privacy laws and regulations related to the transportation industry.
 
 # 8. Appendix
+CSQS: Customer Service Quality Supervisor.
+
+EIC: Employee in Charge
+
+eMD: (eTicketing Mobile Device) An electronic device (Smartphone) used for lifting tickets electronically and assist with other train related tasks.
+
+LSA: Lead Service Attendant - is responsible for the operation of Food Service Cars. The title of Steward and Employee-in-Charge (EIC) have been classified as LSA to reflect common usage
+
+OSHA: Occupational Safety & Health Administration - an agency of the United States Department of Labor created by Congress. Its mission is to prevent work-related injuries, illnesses, and deaths by issuing and enforcing rules (called standards) for workplace safety and health
+
+OSA: Operations Service Advisory – an Amtrak document used to inform Train Service, Onboard Service and Station Service Employees of job related information that has a defined time limit and does not permanently change any policies or procedures in the Service Standards: Manual for Train Service and Onboard Service Employee
+
+TA: Train Attendant - assists passengers in either Coach or Sleeping Cars
+
+TSA: Transportation Security Administration - is a component of the Department of Homeland Security and is responsible for security of the nation’s transportation systems
 
 ## 8.1 Acronyms and abbreviations
 
