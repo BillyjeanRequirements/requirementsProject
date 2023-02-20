@@ -236,7 +236,8 @@ The system will operate primarily in an online mode, allowing customers to acces
 ### d) User classes and other involved personnel: 
 The system will be used by passengers, Amtrak customer service representatives, train attendants, and IT support staff. Passengers will be able to access the system through a website and will be able to view and manage their reservations. Customer service representatives and train attendants will be responsible for assisting passengers with any issues related to their reservations. IT support staff will be responsible for maintaining and updating the system.
 
-### e) Support environment: The system should be designed to support the needs of Amtrak's organizational structure, including divisions and departments such as Operations, Marketing, Finance, and Information Technology. Additionally, the system should be scalable and flexible to accommodate future changes or updates to the organization's resource sharing structures. The system should also comply with all relevant laws and regulations related to data protection, privacy, and consumer rights. Finally, the system should be designed to be user-friendly and provide a positive customer experience.
+### e) Support environment: 
+The system should be designed to support the needs of Amtrak's organizational structure, including divisions and departments such as Operations, Marketing, Finance, and Information Technology. Additionally, the system should be scalable and flexible to accommodate future changes or updates to the organization's resource sharing structures. The system should also comply with all relevant laws and regulations related to data protection, privacy, and consumer rights. Finally, the system should be designed to be user-friendly and provide a positive customer experience.
 
 
 ## 5.2 Preliminary operational scenarios
