@@ -58,6 +58,7 @@ Local communities: The cities and towns where Amtrak operates passenger trains a
 Regulatory bodies: The government agencies that oversee and regulate Amtrak's operations, including the Federal Railroad Administration and the Surface Transportation Board. Regulatory bodies may be involved in the implementation of the seating system to ensure compliance with safety and accessibility regulations.
 
 # 2. References
+https://www.amtrak.com/content/dam/projects/dotcom/english/public/documents/corporate/foia/amtrak-service-standards-manual-091321-redacted.pdf
 # 3. Business management requirements
 ## 3-1. Business environment
 Internal factors:
