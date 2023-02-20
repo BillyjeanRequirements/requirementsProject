@@ -14,29 +14,34 @@ The marketing division is responsible for promoting Amtrak's services and managi
 
 External entities that are important to Amtrak's business include passengers, suppliers, regulatory agencies, and local communities. Passengers are the primary customers of Amtrak and the reason for its existence. Suppliers provide Amtrak with goods and services, including equipment and materials for train operations. Regulatory agencies oversee Amtrak's compliance with safety and environmental regulations. Local communities provide support for Amtrak's operations and are impacted by its presence.
 ## 1-4. Definitions
-Amtrak RideReserveSM : A type of reservation that can be made by multi-ride customers on Amtrak.com and on 
+Amtrak RideReserveSM: A type of reservation that can be made by multi-ride customers on Amtrak.com and on 
 the Amtrak app. RideReserve reservations applies to all multi-ride ticket holder reservations (existing and new 
 bookings), for Amtrak travel.
-Seating system : The software and hardware that enables passengers to select their seats on Amtrak's passenger trains via the website.
 
-Ticketing system : The software and hardware that enables passengers to purchase tickets for Amtrak's passenger trains via the website, mobile app, or other channels.
+CSQS: Customer Service Quality Supervisor.
 
-Train management system : The software and hardware that enables Amtrak employees to manage train operations, including scheduling, crew management, and maintenance.
-
-Customer experience : The sum of all interactions that a passenger has with Amtrak during their journey, including pre-trip planning, on-board experience, and post-trip follow-up.
-
-Passenger satisfaction : The degree to which passengers are pleased with their experience on Amtrak, based on factors such as comfort, safety, reliability, and customer service.
-
-Business objectives : The specific goals that Amtrak aims to achieve through the implementation of the seating system, such as improving customer satisfaction, reducing workload for employees, and increasing revenue.
-
-Business model: The overall strategy and structure of Amtrak's business, including its value proposition, target market, revenue streams, and cost structure.
-
-Information environment: The collection of hardware, software, data, and communication networks that support Amtrak's information systems and enable the flow of information across the organization.
-
-Stakeholders: Individuals or groups who have a vested interest in Amtrak's success, including passengers, employees, shareholders, suppliers, and local communities.
+EIC: Employee in Charge
 
 eMD: (eTicketing Mobile Device) An electronic device (Smartphone) used for lifting tickets electronically and assist with 
 other train related tasks.
+
+LSA: Lead Service Attendant - is responsible for the operation of Food Service Cars. The title of Steward and 
+Employee-in-Charge (EIC) have been classified as LSA to reflect common usage
+
+OSHA: Occupational Safety & Health Administration - an agency of the United States Department of Labor 
+created by Congress. Its mission is to prevent work-related injuries, illnesses, and deaths by issuing and enforcing 
+rules (called standards) for workplace safety and health
+
+OSA: Operations Service Advisory – an Amtrak document used to inform Train Service, Onboard Service and 
+Station Service Employees of job related information that has a defined time limit and does not permanently 
+change any policies or procedures in the Service Standards: Manual for Train Service and Onboard Service 
+Employee
+
+TA: Train Attendant - assists passengers in either Coach or Sleeping Cars
+
+TSA: Transportation Security Administration - is a component of the Department of Homeland Security and is 
+responsible for security of the nation’s transportation systems
+
 ## 1-5. Major stakeholders
 Passengers: The primary users of Amtrak's passenger trains who purchase tickets and use the seating system to select their seats. Passengers have a significant influence on Amtrak's revenue and reputation based on their satisfaction with the service.
 
