@@ -133,9 +133,30 @@ The proposed system will support the following business processes:
 The system will interface with various external systems, including payment gateways, train schedule databases, and customer relationship management systems. The interfaces will be designed to ensure smooth integration between the systems and provide accurate and timely information to customers.
 ## 4-2. Business operational policies and rules
 ## 4-3. Business operational constraints
+1. Performance constraint: The website should be able to handle a large volume of traffic during peak hours when customers are making reservations for their trips. The website should also be able to provide real-time updates on available seats to customers.
+
+2. Security and privacy: The website should be designed to ensure that customer information is kept secure and their privacy is protected. This includes implementing secure login procedures, secure transmission of data, and ensuring that customer information is not shared with unauthorized parties.
+
+3. Compliance: The website should comply with all relevant laws and regulations related to the storage and handling of customer information. This includes laws related to data protection, privacy, and consumer rights.
+
+4. User experience: The website should be easy to use and navigate, with clear instructions on how to select seats and make reservations. The website should also be accessible to all customers, including those with disabilities.
+
+5. Training and support: Amtrak employees should be trained on how to use the new system, and there should be a support system in place to help customers with any issues they may encounter while using the website.
+
+6. Integration with existing systems: The new system should be integrated with Amtrak's existing reservation and ticketing systems to ensure that customer data is consistent across all systems. This will help to avoid confusion and ensure that customers receive accurate information about their reservations.
 ## 4-4. Business operational modes
 ## 4-5. Business operational quality
+The level of quality required for the business operation is high. The seating reservation system must be reliable, secure, and user-friendly. It should be able to handle a large volume of traffic during peak hours, provide real-time updates, and ensure that customer information is kept secure and private. Additionally, the system should comply with all relevant laws and regulations related to data protection, privacy, and consumer rights. Finally, the system should be designed to be flexible and scalable to accommodate future changes or updates.
+
 ## 4-6. Business structure
+1. Organizational structure: Amtrak has a hierarchical organizational structure, with divisions and departments such as Operations, Marketing, Finance, and Information Technology. The system should align with this structure to ensure that it supports the needs of each division or department.
+
+2. Role and responsibility structures: The system should be designed to support the roles and responsibilities of various employees who will be involved in the seating reservation process, such as customer service representatives, train attendants, and IT support staff.
+
+3. Geographic structures: Amtrak operates in multiple locations across the United States, and the system should be designed to support the needs of each location, including variations in local regulations and customer preferences.
+
+4. Resource sharing structures: The system should be designed to support the sharing of resources, such as customer data, between different departments or divisions of the organization. This will help to ensure that customer information is consistent and up-to-date across all systems. Additionally, the system should be scalable and flexible to accommodate future changes or updates to the organization's resource sharing structures.
+
 
 # 5. Preliminary operational concept of proposed system
 
