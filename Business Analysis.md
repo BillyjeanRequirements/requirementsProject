@@ -223,14 +223,18 @@ The level of quality required for the business operation is high. The seating re
 ## 5.1 Preliminary operational concept
 
 
-### a) Operational policies and constraints: The proposed system must comply with Amtrak's policies and constraints, including customer data privacy, availability, and reliability. The system should also ensure that it is user-friendly, scalable, and flexible to accommodate future changes or updates.
+### a) Operational policies and constraints: 
+The proposed system must comply with Amtrak's policies and constraints, including customer data privacy, availability, and reliability. The system should also ensure that it is user-friendly, scalable, and flexible to accommodate future changes or updates.
 
-### b) Description of the proposed system: The proposed system is a seating reservation system that allows passengers to select and reserve seats for their trip via a website. The system will keep track of all customer trips, and based on that information, purchasing customers will be able to see what seats are available for their trip. The system will also allow customers to view and manage their reservations, as well as receive real-time updates about their trip.
+### b) Description of the proposed system: 
+The proposed system is a seating reservation system that allows passengers to select and reserve seats for their trip via a website. The system will keep track of all customer trips, and based on that information, purchasing customers will be able to see what seats are available for their trip. The system will also allow customers to view and manage their reservations, as well as receive real-time updates about their trip.
 
 
-### c) Modes of system operation: The system will operate primarily in an online mode, allowing customers to access the system through a website. The system should be designed to handle a large volume of traffic during peak hours, and be able to provide real-time updates to customers. In case of any unexpected situation, such as an accident or natural disaster, the system should be able to switch to a manual operation mode, allowing Amtrak employees to assign seats to passengers manually.
+### c) Modes of system operation: 
+The system will operate primarily in an online mode, allowing customers to access the system through a website. The system should be designed to handle a large volume of traffic during peak hours, and be able to provide real-time updates to customers. In case of any unexpected situation, such as an accident or natural disaster, the system should be able to switch to a manual operation mode, allowing Amtrak employees to assign seats to passengers manually.
 
-### d) User classes and other involved personnel: The system will be used by passengers, Amtrak customer service representatives, train attendants, and IT support staff. Passengers will be able to access the system through a website and will be able to view and manage their reservations. Customer service representatives and train attendants will be responsible for assisting passengers with any issues related to their reservations. IT support staff will be responsible for maintaining and updating the system.
+### d) User classes and other involved personnel: 
+The system will be used by passengers, Amtrak customer service representatives, train attendants, and IT support staff. Passengers will be able to access the system through a website and will be able to view and manage their reservations. Customer service representatives and train attendants will be responsible for assisting passengers with any issues related to their reservations. IT support staff will be responsible for maintaining and updating the system.
 
 ### e) Support environment: The system should be designed to support the needs of Amtrak's organizational structure, including divisions and departments such as Operations, Marketing, Finance, and Information Technology. Additionally, the system should be scalable and flexible to accommodate future changes or updates to the organization's resource sharing structures. The system should also comply with all relevant laws and regulations related to data protection, privacy, and consumer rights. Finally, the system should be designed to be user-friendly and provide a positive customer experience.
 
