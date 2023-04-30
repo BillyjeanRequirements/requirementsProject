@@ -23,3 +23,10 @@ software. The system allows passengers to submit refund requests based on Amtrak
 policy and handles the processing of the refund. It ensures a seamless experience for passengers 
 while managing refund requests in compliance with Amtrak's policies and procedures and also 
 updating the seat availability after the refund is completely processed.
+
+
+constrains: 
+CON-1: The system should be developed using Python and Django.
+Rationale: The development team is experienced with these technologies, and they offer a suitable level of performance and scalability.
+CON-2: The system should comply with all applicable data
+CON-3: CON-5: The system must be compliant with the Americans with Disabilities Act (ADA).
