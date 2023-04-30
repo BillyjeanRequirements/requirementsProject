@@ -22,3 +22,9 @@ This use case focuses on enabling passengers to search for trains based on their
 preferences, view available seats on a seat map, and reserve their desired seat. The software 
 integrates with the Amtrak ticketing system to confirm and manage seating reservations, 
 providing a user-friendly experience for passengers.
+
+constrains: 
+CON-1: The system should be developed using Python and Django.
+Rationale: The development team is experienced with these technologies, and they offer a suitable level of performance and scalability.
+CON-2: The system should comply with all applicable data
+CON-3: CON-5: The system must be compliant with the Americans with Disabilities Act (ADA).
