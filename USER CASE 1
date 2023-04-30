@@ -1,0 +1,24 @@
+Use Case 1:
+What the software is supposed to do:
+The software allows passengers to enter their travel preferences, such as departure and arrival 
+stations, dates, and times. The software displays available trains that match the passengers' 
+search criteria. The software presents a seat map for the selected train, showing available and 
+occupied seats. The software enables passengers to select their desired seat from the available 
+options. The software integrates with the Amtrak ticketing system to reserve and confirm the 
+chosen seat.
+Unique Identifier: UC-001
+Use Case Name: Reserve Seat
+Brief Description: A passenger reserves a seat on a specific train for a specific date and time.
+Pre-conditions: The passenger has access to the seating reservation system, and the desired train 
+has available seats.
+Post-conditions: The passenger has successfully reserved a seat, and the seating reservation 
+system updates the available seats for the train.
+Basic Flow:
+Passenger selects the desired train, date, and time.
+System displays available seats.
+Passenger selects a seat.
+The system reserves the seat for the passenger and generates a ticket.
+This use case focuses on enabling passengers to search for trains based on their travel 
+preferences, view available seats on a seat map, and reserve their desired seat. The software 
+integrates with the Amtrak ticketing system to confirm and manage seating reservations, 
+providing a user-friendly experience for passengers.
