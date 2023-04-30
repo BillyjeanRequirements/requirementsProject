@@ -24,7 +24,15 @@ integrates with the Amtrak ticketing system to confirm and manage seating reserv
 providing a user-friendly experience for passengers.
 
 constrains: 
-CON-1: The system should be developed using Python and Django.
-Rationale: The development team is experienced with these technologies, and they offer a suitable level of performance and scalability.
-CON-2: The system should comply with all applicable data
-CON-3: CON-5: The system must be compliant with the Americans with Disabilities Act (ADA).
+Accessibility Compliance (CON-1): The ticket booking system must comply with the Americans with Disabilities Act (ADA) 
+and other relevant accessibility standards to ensure that the system is usable by passengers with disabilities. 
+This includes providing alternative text for images, appropriate color contrast, keyboard navigation, and compatibility with screen readers.
+
+Data Privacy and Security (CON-2): The ticket booking system must adhere to data privacy regulations such as 
+the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA) to protect passenger information. 
+This includes ensuring secure data storage, encryption of sensitive information, and providing passengers with the ability to access, edit, or delete
+their personal data upon request.
+
+Platform Compatibility (CON-3): The ticket booking system should be compatible with a wide range of devices, operating systems, and web browsers 
+to cater to the diverse technological preferences of passengers. This includes ensuring that the system works seamlessly on desktop and mobile devices,
+across major operating systems (e.g., Windows, macOS, Android, iOS), and on popular web browsers (e.g., Chrome, Firefox, Safari, Edge).
