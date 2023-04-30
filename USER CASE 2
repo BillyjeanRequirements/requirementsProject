@@ -1,0 +1,25 @@
+Use Case 2:
+What the software is supposed to do:
+The software provides Amtrak employees with a dedicated interface to access and manage 
+seating reservations. The software allows employees to search for specific reservations by 
+passenger name, reservation number, or train details. The software enables employees to view 
+the seat map for a specific train and identify reserved and available seats. The software allows 
+employees to make changes to reservations, such as updating seat assignments or modifying 
+reservation details. The software sends notifications to passengers when there are updates or 
+changes to their reservations.
+Unique Identifier: UC-002
+Use Case Name: Request Refund
+Brief Description: A passenger requests a refund for a previously reserved seat.
+Pre-conditions: The passenger has a valid ticket and meets the refund policy conditions.
+Post-conditions: The passenger's refund request is processed, the ticket is canceled, and the seat 
+availability is updated.
+Basic Flow:
+Passenger navigates to the refund page on the seating reservation system.
+Passenger enters ticket details and the reason for the refund request.
+System processes the refund and cancels the ticket.
+System sends a refund confirmation to the passenger.
+This use case focuses on enabling passengers to request refunds for their reservations through the 
+software. The system allows passengers to submit refund requests based on Amtrak's refund 
+policy and handles the processing of the refund. It ensures a seamless experience for passengers 
+while managing refund requests in compliance with Amtrak's policies and procedures and also 
+updating the seat availability after the refund is completely processed.
